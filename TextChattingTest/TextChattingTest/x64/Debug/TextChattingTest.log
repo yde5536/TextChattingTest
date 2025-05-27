@@ -1,0 +1,4 @@
+﻿  TextChattingTest.cpp
+C:\Users\njgs2413\source\repos\TextChattingTest\TextChattingTest\TextChattingTest.cpp(58,61): warning C4267: '인수': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\njgs2413\source\repos\TextChattingTest\TextChattingTest\TextChattingTest.cpp(108,77): warning C4267: '인수': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  TextChattingTest.vcxproj -> C:\Users\njgs2413\source\repos\TextChattingTest\x64\Debug\TextChattingTest.exe
